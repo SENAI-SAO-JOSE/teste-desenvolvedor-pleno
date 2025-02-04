@@ -1,0 +1,6 @@
+@LeonoraApi_HostAddress = http://localhost:5169
+
+GET {{LeonoraApi_HostAddress}}/
+Accept: application/json
+
+###

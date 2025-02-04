@@ -1,0 +1,12 @@
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\bin\Debug\net8.0\LeonoraApi.Data.deps.json
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\bin\Debug\net8.0\LeonoraApi.Data.dll
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\bin\Debug\net8.0\LeonoraApi.Data.pdb
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.csproj.AssemblyReference.cache
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.AssemblyInfoInputs.cache
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.AssemblyInfo.cs
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.csproj.CoreCompileInputs.cache
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.dll
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\refint\LeonoraApi.Data.dll
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\LeonoraApi.Data.pdb
+C:\Dev\Leonora\LeonoraApi\Leonora.API.GestaoProdutos\LeonoraApi.Data\obj\Debug\net8.0\ref\LeonoraApi.Data.dll

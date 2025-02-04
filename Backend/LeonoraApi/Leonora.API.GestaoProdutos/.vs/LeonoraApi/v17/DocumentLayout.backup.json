@@ -1,0 +1,934 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.tests\\produtofornecedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|solutionrelative:leonoraapi.tests\\produtofornecedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.tests\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|solutionrelative:leonoraapi.tests\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\leonoraapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\leonoraapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\produtofornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\produtofornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\interfaces\\iprodutofornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\interfaces\\iprodutofornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\produtofornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\produtofornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\interfaces\\iprodutofornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\interfaces\\iprodutofornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\produtofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\produtofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\dtos\\produtofornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\dtos\\produtofornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\dtos\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE869DD9-7507-4CDB-9DE4-4EFBE6D06BB7}|LeonoraApi\\LeonoraApi.csproj|solutionrelative:leonoraapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\configurations\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\configurations\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.tests\\categoriacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|solutionrelative:leonoraapi.tests\\categoriacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.tests\\usuariocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|solutionrelative:leonoraapi.tests\\usuariocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.tests\\fornecedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9403DF-AE86-4B51-9E0D-E7C993FBF0D0}|LeonoraApi.Tests\\LeonoraApi.Tests.csproj|solutionrelative:leonoraapi.tests\\fornecedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\interfaces\\icategoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\interfaces\\ifornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\fornecedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.domain\\repositories\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6C654E-4FFA-4F0B-95AE-C4B9EB246452}|LeonoraApi.Domain\\LeonoraApi.Domain.csproj|solutionrelative:leonoraapi.domain\\repositories\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|c:\\dev\\leonora\\leonoraapi\\leonora.api.gestaoprodutos\\leonoraapi.data\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA39C587-FC11-4767-97F4-33A12AE201B8}|LeonoraApi.Data\\LeonoraApi.Data.csproj|solutionrelative:leonoraapi.data\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Program.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Program.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Program.cs",
+              "RelativeToolTip": "LeonoraApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:23:51.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:29:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\ApiContext.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\ApiContext.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:23:01.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\ProdutoControllerTests.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Tests\\ProdutoControllerTests.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\ProdutoControllerTests.cs",
+              "RelativeToolTip": "LeonoraApi.Tests\\ProdutoControllerTests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:24:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoFornecedorControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\ProdutoFornecedorControllerTests.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Tests\\ProdutoFornecedorControllerTests.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\ProdutoFornecedorControllerTests.cs",
+              "RelativeToolTip": "LeonoraApi.Tests\\ProdutoFornecedorControllerTests.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAApwFQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:24:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeonoraApi.http",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\LeonoraApi.http",
+              "RelativeDocumentMoniker": "LeonoraApi\\LeonoraApi.http",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\LeonoraApi.http",
+              "RelativeToolTip": "LeonoraApi\\LeonoraApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-04T11:06:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "RelativeToolTip": "LeonoraApi\\Extensions\\ApplicationServiceExtensions.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:58:57.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LeonoraApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\appsettings.Development.json",
+              "RelativeToolTip": "LeonoraApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T11:04:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutoFornecedorController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\ProdutoFornecedorController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\ProdutoFornecedorController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\ProdutoFornecedorController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\ProdutoFornecedorController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:37:38.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LeonoraApi\\appsettings.json",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\appsettings.json",
+              "RelativeToolTip": "LeonoraApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T08:48:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProdutoFornecedorService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IProdutoFornecedorService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\Interfaces\\IProdutoFornecedorService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IProdutoFornecedorService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\Interfaces\\IProdutoFornecedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:23:21.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoFornecedorService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\ProdutoFornecedorService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\ProdutoFornecedorService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\ProdutoFornecedorService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\ProdutoFornecedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:12:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProdutoFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoFornecedorRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoFornecedorRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoFornecedorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:21:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FornecedorDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\FornecedorDto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\DTOs\\FornecedorDto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\FornecedorDto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\DTOs\\FornecedorDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:54:15.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:16:21.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutoFornecedor.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\ProdutoFornecedor.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\ProdutoFornecedor.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\ProdutoFornecedor.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\ProdutoFornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:37:47.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwv0wAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:35:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:38.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdutoFornecedorDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\ProdutoFornecedorDto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\DTOs\\ProdutoFornecedorDto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\ProdutoFornecedorDto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\DTOs\\ProdutoFornecedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:36:15.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\DTOs\\CategoriaDto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\CategoriaDto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\DTOs\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:03:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\FornecedorController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:30:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:39:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\DTOs\\ProdutoDto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\ProdutoDto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\DTOs\\ProdutoDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:26:13.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:01:03.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:45:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:30:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "LeonoraApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "LeonoraApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwD8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:01:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:18:28.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:51:46.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsuarioControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\UsuarioControllerTests.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Tests\\UsuarioControllerTests.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\UsuarioControllerTests.cs",
+              "RelativeToolTip": "LeonoraApi.Tests\\UsuarioControllerTests.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwFAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:36:05.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Enums\\Enums.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:54:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Configurations\\AppSettings.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\Configurations\\AppSettings.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Configurations\\AppSettings.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\Configurations\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T00:22:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoriaControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\CategoriaControllerTests.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Tests\\CategoriaControllerTests.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\CategoriaControllerTests.cs",
+              "RelativeToolTip": "LeonoraApi.Tests\\CategoriaControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:09:19.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FornecedorControllerTests.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\FornecedorControllerTests.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Tests\\FornecedorControllerTests.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Tests\\FornecedorControllerTests.cs",
+              "RelativeToolTip": "LeonoraApi.Tests\\FornecedorControllerTests.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:22:18.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:54.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\CategoriaService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:02:14.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoriaService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\ICategoriaService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\Interfaces\\ICategoriaService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\ICategoriaService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\Interfaces\\ICategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:02:09.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Categoria.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:03:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:15:50.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IFornecedorService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IFornecedorService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\Interfaces\\IFornecedorService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\Interfaces\\IFornecedorService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\Interfaces\\IFornecedorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:59:58.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FornecedorService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\FornecedorService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\FornecedorService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\FornecedorService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\FornecedorService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:55:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\Fornecedor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:54:44.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:29:18.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:38:46.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Usuario.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:45:36.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "LeonoraApi.Domain\\Repositories\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:35:27.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LeonoraApi.Data\\Models\\Produto.cs",
+              "ToolTip": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\Models\\Produto.cs",
+              "RelativeToolTip": "LeonoraApi.Data\\Models\\Produto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:29:43.473Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 511,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
