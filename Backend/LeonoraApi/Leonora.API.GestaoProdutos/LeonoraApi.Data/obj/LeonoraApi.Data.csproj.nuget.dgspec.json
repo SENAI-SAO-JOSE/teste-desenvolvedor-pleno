@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj": {}
+    "C:\\Dev\\Leonora\\teste-desenvolvedor-pleno\\Backend\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj": {
+    "C:\\Dev\\Leonora\\teste-desenvolvedor-pleno\\Backend\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj",
+        "projectUniqueName": "C:\\Dev\\Leonora\\teste-desenvolvedor-pleno\\Backend\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj",
         "projectName": "LeonoraApi.Data",
-        "projectPath": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj",
+        "projectPath": "C:\\Dev\\Leonora\\teste-desenvolvedor-pleno\\Backend\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\LeonoraApi.Data.csproj",
         "packagesPath": "C:\\Users\\conra\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Leonora\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\obj\\",
+        "outputPath": "C:\\Dev\\Leonora\\teste-desenvolvedor-pleno\\Backend\\LeonoraApi\\Leonora.API.GestaoProdutos\\LeonoraApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
